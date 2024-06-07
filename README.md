@@ -52,9 +52,6 @@
 
 <img src="screenshots/sspc1.png" width="650px" />
 
-## 🚀 Performance
-
-<img src="screenshots/performance.png" width="600px" />
 
 ## 💻 Tech Stack
 
